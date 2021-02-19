@@ -211,7 +211,7 @@ img {
 
 footer {
 	position: absolute;
-    width: 100%;
+    max-width: 90%;
     border-top: 1px solid #eee;
     
 }
