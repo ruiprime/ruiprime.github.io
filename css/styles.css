@@ -210,9 +210,9 @@ img {
 —————————————————————————————————————————————————————————————————————— */
 
 footer {
-	border-top: 1px solid #eee;
-    position: absolute;
+	position: absolute;
     width: 100%;
+    border-top: 1px solid #eee;
     
 }
 
