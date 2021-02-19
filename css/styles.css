@@ -156,8 +156,6 @@ input:focus, textarea:focus {
 	margin-bottom: 0px;
 }
 
-
-
 .date {
 	color: #666;
 	font-family: 'Montserrat', sans-serif;
@@ -201,6 +199,7 @@ input:focus, textarea:focus {
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
+
 img {
     max-width: 100%;
     height: auto;
@@ -215,3 +214,4 @@ footer {
     position: absolute;
     width: 100%;
 }
+
